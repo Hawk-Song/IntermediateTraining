@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetHired Time</string>
+    <string name="Login">Login</string>
+    <string name="ResetPassword">Reset Password</string>
+</resources>
